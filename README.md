@@ -10,4 +10,4 @@ Live at https://discern-advisory.com (GitHub Pages).
 ## Still to fill in
 - Client permissions for anything named beyond the current bio
 - Phone
-- A form handler for the inquiry form (it does not send yet)
+- Inquiry form sends via FormSubmit to hello@discern-advisory.com (confirm the activation email once)
