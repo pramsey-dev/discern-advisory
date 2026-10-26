@@ -8,6 +8,6 @@ Live at https://discern-advisory.com (GitHub Pages).
 - `CNAME` – custom domain for GitHub Pages
 
 ## Still to fill in
-- Credentials and notable clients (marked in [brackets])
+- Client permissions for anything named beyond the current bio
 - LinkedIn and phone
 - A form handler for the inquiry form (it does not send yet)
